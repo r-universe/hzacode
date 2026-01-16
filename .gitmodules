@@ -5,7 +5,3 @@
 [submodule "Athlytics"]
 	path = Athlytics
 	url = https://github.com/hzacode/athlytics
-[submodule "FITfileR"]
-	path = FITfileR
-	url = https://github.com/grimbough/FITfileR
-	registered = false
